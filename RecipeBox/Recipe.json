@@ -1,0 +1,25 @@
+{
+  "Maggie":{
+    "ingredients": ["1. 140 gm maggi noodles",
+                    "2. 1/2 Cup of Water ",
+                    "3. Maggie Masala"],
+    "Directions": ["1. Boiled water and Chop the Vegies", "2. Add Maggie and Masala", "3. Garnish & Enjoy"]
+  },
+
+  "Poha": {
+    "ingredients": ["1. 2 Cut Poha",
+                    "2. 1 chopped onion ",
+                    "3. 1 Green Chilli",
+                    "4. Spices",
+                    "5. Oil"],
+    "Directions": ["1. take 2 cups of thick poha and rinse well with water. Keep it aside in a bowl. ",
+                  "2. medium green chili chopped,",
+                  "3. Heat 1 tsp olive oil in a pan on medium flame, add 1 tsp cumin seeds in it and allow them to splutter.",
+                  "4. Now, add 1 medium chopped onion. Sauté onions until they are tender. Stir well for 30 seconds and then add prepared coriander, and cook for 2 minutes.",
+                  "5. Add poha + salt and mix everything gently with the rest of the ingredients",
+                  "6. Give a gentle stir and top with 60 grams of roasted peanuts. Serve immediately and relish"]
+  }
+}
+
+
+
